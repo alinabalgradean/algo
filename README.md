@@ -2,7 +2,7 @@
 
 ## (Most popular) Sorting algorithms time complexities:
 
-| Algorithm      |               Time Complexity               |
+| Algorithm      |Time Complexity  |             |             |
 |----------------|-----------------|-------------|-------------|
 |                | Best            | Average     | Worst       |
 | Selection Sort | Ω(n^2)          | θ(n^2)      | O(n^2)      |
