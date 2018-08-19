@@ -1,4 +1,4 @@
-## (Most popular) Sorting algorithms time complexities:
+## Sorting algorithms time complexities:
 
 | Algorithm      |Time Complexity  |             |             |
 |----------------|-----------------|-------------|-------------|
