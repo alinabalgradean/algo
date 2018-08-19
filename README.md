@@ -15,5 +15,7 @@
 
 ### Time complexity graph
 
-![Time complexity graph](https://cdn-images-1.medium.com/max/1600/1*iEbD3x2S5KOiEI6ZOltp9w.png | width=48)
+![Time complexity graph](https://cdn-images-1.medium.com/max/1600/1*iEbD3x2S5KOiEI6ZOltp9w.png)
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*iEbD3x2S5KOiEI6ZOltp9w.png" width="48">
 
