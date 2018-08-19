@@ -1,1 +1,1 @@
-# Core algorithms implemented from scratch
+## Core sorting algorithms implemented from scratch
