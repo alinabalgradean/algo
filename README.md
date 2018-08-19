@@ -1,5 +1,3 @@
-## Core sorting algorithms implemented from scratch
-
 ## (Most popular) Sorting algorithms time complexities:
 
 | Algorithm      |Time Complexity  |             |             |
