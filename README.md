@@ -4,7 +4,7 @@
 
 | Algorithm      |Time Complexity  |             |             |
 |----------------|-----------------|-------------|-------------|
-|                | Best            | Average     | Worst       |
+|                | *Best*            | Average     | Worst       |
 | Selection Sort | Ω(n^2)          | θ(n^2)      | O(n^2)      |
 | Bubble Sort    | Ω(n)            | θ(n^2)      | O(n^2)      |
 | Insertion Sort | Ω(n)            | θ(n^2)      | O(n^2)      |
