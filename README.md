@@ -1,4 +1,4 @@
-## Sorting algorithms time complexities:
+## Time complexities:
 
 | Algorithm      |Time Complexity  |             |             |
 |----------------|-----------------|-------------|-------------|
