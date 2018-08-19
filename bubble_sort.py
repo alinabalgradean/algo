@@ -42,3 +42,15 @@ def MyBubbleSortSlighlyOptimized(lst):
         lst[j], lst[j+1] = lst[j+1], lst[j]
         
   return lst
+
+# 10,000 elements unsorted list - Result below
+
+# Around ~ 113 sec for the best running time
+print min(timeit.Timer(stmt='sorted_lst=MyBubbleSort(simple_lst)',
+                       setup=setup).repeat(3, 10))
+# Around ~ 60 sec for the best running time
+print min(timeit.Timer(stmt='sorted_lst=MyBubbleSortSlighlyOptimized(simple_lst)',
+                       setup=setup).repeat(3, 10))
+# < 0.03 sec for the best running time
+print min(timeit.Timer(stmt='sorted_lst=sorted(simple_lst)',
+                       setup=setup).repeat(3, 10))
