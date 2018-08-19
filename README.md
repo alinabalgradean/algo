@@ -1,1 +1,1 @@
-# Common core algorithms implemented in Python
+# Core algorithms implemented from scratch
