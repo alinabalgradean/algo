@@ -10,7 +10,6 @@ def MySelectionSort(lst):
   n = len(lst)
   
   for i in range(n):
-    
     wall = i
     for j in range(i+1, n):
       if lst[wall] > lst[j]:
