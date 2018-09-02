@@ -1,5 +1,5 @@
 def MySelectionSort(lst):
-  """Unoptimized version of the bubble sort algorithm.
+  """Unoptimized version of the selection sort algorithm.
   
   Args:
     lst [list]: The list to be sorted.
